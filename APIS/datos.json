@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "nombre": "Miguel",
+  "edad": 20,
+  "vivo": true,
+  "nombre2": "Bernabe",
+  "datos_extra": [
+    {
+      "pelo": "negro",
+      "estatura": 1.8,
+      "color": "amarillo",
+      "ojos": "cafes"
+    }
+  ]
+}
